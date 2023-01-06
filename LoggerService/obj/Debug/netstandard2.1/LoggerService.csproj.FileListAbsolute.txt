@@ -1,0 +1,5 @@
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\LoggerService\obj\Debug\netstandard2.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\LoggerService\obj\Debug\netstandard2.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\LoggerService\obj\Debug\netstandard2.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\LoggerService\obj\Debug\netstandard2.1\LoggerService.AssemblyInfo.cs
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\LoggerService\obj\Debug\netstandard2.1\LoggerService.csproj.CoreCompileInputs.cache

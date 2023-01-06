@@ -1,0 +1,5 @@
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\gordkey\Desktop\MyFiles\Experimental\CompanyEmployees\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
